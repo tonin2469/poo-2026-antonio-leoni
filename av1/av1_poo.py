@@ -37,16 +37,16 @@ class Desenvolvedor(Funcionario):
 
 
 gerente = Gerente(
-    "Carlos",
+    "Antonio Leoni",
     "G001",
-    8000,
-    2000
+    100000,
+    100000
 )
 
 desenvolvedor = Desenvolvedor(
-    "Joao",
+    "Mariana Lanavio",
     "D001",
-    6000,
+    45000,
     "Senior"
 )
 
